@@ -27,7 +27,7 @@ This project was developed as part of a personal learning initiative to explore 
 
 ## 🏠 Home Page Preview
 
-![Home Page](./screenshots/homepage.png)
+![Home Page](public/images/homepage.png)
 
 *(Replace `./screenshots/homepage.png` with the actual path where you save the image in your repo — you can use the screenshot you provided.)*
 
