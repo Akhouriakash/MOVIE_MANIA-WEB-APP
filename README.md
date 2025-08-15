@@ -2,7 +2,6 @@
 <a href= "https://movie-mania-web-app.vercel.app/"> https://movie-mania-web-app.vercel.app/ </a>
 
 ## Getting Started
-
 # 🎬 Movie Mania Web App
 
 A modern, responsive movie browsing application built with **Next.js**, **Tailwind CSS**, and **Material UI**, integrated with **TMDb API** to deliver real-time movie details, trailers, and recommendations.
@@ -23,6 +22,14 @@ Movie Mania is a **feature-rich movie exploration platform** that allows users t
 - Enjoy a fast, mobile-friendly UI powered by **Next.js SSR** for optimal performance
 
 This project was developed as part of a personal learning initiative to explore **full-stack web development** using cutting-edge front-end technologies and API integration.
+
+---
+
+## 🏠 Home Page Preview
+
+![Home Page](./screenshots/homepage.png)
+
+*(Replace `./screenshots/homepage.png` with the actual path where you save the image in your repo — you can use the screenshot you provided.)*
 
 ---
 
