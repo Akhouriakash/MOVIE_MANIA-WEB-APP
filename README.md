@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## LIVE DEMO LINK 
+<a href= "https://movie-mania-web-app.vercel.app/"> https://movie-mania-web-app.vercel.app/ </a>
 
 ## Getting Started
+# 🎬 Movie Mania Web App
 
-First, run the development server:
+A modern, responsive movie browsing application built with **Next.js**, **Tailwind CSS**, and **Material UI**, integrated with **TMDb API** to deliver real-time movie details, trailers, and recommendations.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🔗 **Live Demo:** [Movie Mania Web App](https://movie-mania-web-app.vercel.app/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📌 Overview
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Movie Mania is a **feature-rich movie exploration platform** that allows users to:
 
-## Learn More
+- Search movies by title or keyword
+- View detailed information about movies
+- Watch trailers directly on the site
+- Explore cast and crew details
+- Browse similar and recommended movies
+- Enjoy a fast, mobile-friendly UI powered by **Next.js SSR** for optimal performance
 
-To learn more about Next.js, take a look at the following resources:
+This project was developed as part of a personal learning initiative to explore **full-stack web development** using cutting-edge front-end technologies and API integration.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🏠 Home Page Preview
 
-## Deploy on Vercel
+![Home Page](./screenshots/homepage.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+*(Replace `./screenshots/homepage.png` with the actual path where you save the image in your repo — you can use the screenshot you provided.)*
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+## 🎯 Features
+
+- 🔍 **Movie Search** – Find movies using TMDb API
+- 🎥 **Trailers** – Embedded YouTube trailers for an immersive experience
+- 🎭 **Cast & Crew** – Detailed information about actors and creators
+- 📊 **Recommendations** – Suggested movies based on your interests
+- 📱 **Responsive UI** – Works seamlessly on mobile, tablet, and desktop
+- ⚡ **Optimized Performance** – Server-Side Rendering (SSR) for better SEO and speed
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**
+- [Next.js](https://nextjs.org/) – React framework with SSR & routing
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
+- [Material UI](https://mui.com/) – Ready-to-use styled components
+- [Framer Motion](https://www.framer.com/motion/) – Smooth animations
+
+**API:**
+- [TMDb API](https://www.themoviedb.org/documentation/api) – Movie data provider
+
+**Deployment:**
+- [Vercel](https://vercel.com/) – Hosting & deployment
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/movie-mania-web-app.git
+   cd movie-mania-web-app
